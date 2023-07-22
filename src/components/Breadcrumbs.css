@@ -1,0 +1,9 @@
+.BasicBreadcrumbs li:first-of-type {
+    color:#4782da;
+}
+
+.BasicBreadcrumbs li {
+    color:rgba(255, 255, 255, 0.5);
+    font-size:14px;
+    font-weight:600;
+}

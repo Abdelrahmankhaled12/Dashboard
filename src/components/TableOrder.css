@@ -1,0 +1,8 @@
+table  {
+    background-color:rgb(35, 48, 68) !important;
+    color:white;
+}
+
+th,td{
+    border-bottom: 1px solid rgba(224 224 224 / 32%) !important;
+}
